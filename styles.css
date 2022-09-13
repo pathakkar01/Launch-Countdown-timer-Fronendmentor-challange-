@@ -113,7 +113,7 @@ main h1 {
   padding: 0 0.2em;
   left: 0;
 }
-/* .timer-card span::before {
+.timer-card span::before {
   width: 10px;
   height: 10px;
   position: absolute;
@@ -132,7 +132,7 @@ main h1 {
   content: "";
   border-radius: 50%;
   background-color: #1f2031;
-} */
+}
 
 /* flip animation */
 @keyframes flip-top {
